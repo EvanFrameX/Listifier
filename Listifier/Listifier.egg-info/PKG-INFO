@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: Listifier
+Version: 0.0.1
+Summary: A module for handling lists and dictionaries
+Author: EvanFrameX
+Author-email: <piescandale@gmail.com>
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
